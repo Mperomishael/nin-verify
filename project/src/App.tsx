@@ -6,7 +6,7 @@ function App() {
 
   const handleCheckboxChange = () => {
     setIsChecked(true);
-    window.location.href = 'https://fb.com/empiredigits';
+    window.location.href = 'https://kzmkr8huf40lyd7qqyyi.lite.vusercontent.net/';
   };
 
   return (
