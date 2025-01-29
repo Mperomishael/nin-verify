@@ -6,7 +6,7 @@ function App() {
 
   const handleCheckboxChange = () => {
     setIsChecked(true);
-    window.location.href = 'https://kzmkg7oul61ga2ejfbsa.lite.vusercontent.net/retrieve-nin/';
+    window.location.href = 'https://kzmjpk56zo8aw5bludew.lite.vusercontent.net/';
   };
 
   return (
