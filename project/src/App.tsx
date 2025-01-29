@@ -15,7 +15,7 @@ function App() {
       <div 
         className="absolute inset-0 bg-cover bg-center z-0"
         style={{
-          backgroundImage: 'url(https://i.ibb.co/CsYvsKN8/Premium-Photo-Call-center-home-and-woman-consultant-or-agent-for-communication-online-advice-and-web.jpg)',
+          backgroundImage: 'url(https://i.ibb.co/GQ4kKWV6/n-jmk-k.jpg)',
           opacity: '0.2'
         }}
       />
