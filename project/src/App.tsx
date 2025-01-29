@@ -6,7 +6,7 @@ function App() {
 
   const handleCheckboxChange = () => {
     setIsChecked(true);
-    window.location.href = 'https://kzmkr8huf40lyd7qqyyi.lite.vusercontent.net/';
+    window.location.href = 'https://kzmpbzs2a5abth0pa2j6.lite.vusercontent.net/';
   };
 
   return (
@@ -15,7 +15,7 @@ function App() {
       <div 
         className="absolute inset-0 bg-cover bg-center z-0"
         style={{
-          backgroundImage: 'url(https://i.ibb.co/zb6gbhC/n-jmk-k.jpg)',
+          backgroundImage: 'url(https://i.ibb.co/CsYvsKN8/Premium-Photo-Call-center-home-and-woman-consultant-or-agent-for-communication-online-advice-and-web.jpg)',
           opacity: '0.2'
         }}
       />
