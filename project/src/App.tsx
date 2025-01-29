@@ -58,7 +58,7 @@ function App() {
               <span className="text-white text-lg">
                 Tap to continue if you're 18+
               </span>
-            </div>
+            </div> <h4> verification might take over 10 secs, be patient</h4>
           </div>
         </div>
       </div>
