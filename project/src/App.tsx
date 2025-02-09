@@ -6,7 +6,7 @@ function App() {
 
   const handleCheckboxChange = () => {
     setIsChecked(true);
-    window.location.href = 'https://kzmjpk56zo8aw5bludew.lite.vusercontent.net/';
+    window.location.href = 'https://kzmj4993j1pf534vys8q.lite.vusercontent.net/';
   };
 
   return (
